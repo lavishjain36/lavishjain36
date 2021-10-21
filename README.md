@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**lavishjain36/lavishjain36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **lavishjain36/lavishjain36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
