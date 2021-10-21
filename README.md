@@ -4,7 +4,7 @@
 <!-- **lavishjain36/lavishjain36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on Full Stack Devlopement
+- 🔭 I’m currently working on Full Stack Development
 - 📫 How to reach me:https://www.linkedin.com/in/lavishjain36/
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lavishjain36.lavishjain36)
 
