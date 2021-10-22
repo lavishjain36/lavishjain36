@@ -5,7 +5,6 @@
 
 
 - 🔭 I’m currently working on Full Stack Development
-- 📫 How to reach me:https://www.linkedin.com/in/lavishjain36/
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lavishjain36.lavishjain36)
 
 
