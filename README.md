@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lavishportfolio.onrender.com/](https://lavishportfolio.onrender.com/)
 
-- 📝 I regularly write articles on [https://www.guvi.in/blog/spring-boot-questions-and-answers/](https://www.guvi.in/blog/spring-boot-questions-and-answers/)
+- 📝 I regularly write articles on [https://www.guvi.in/blog/category/java/](https://www.guvi.in/blog/category/java/)
 
 - 💬 Ask me about **J2SE,React,Database,Tesing Framework,Spring boot**
 
