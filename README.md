@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavishjain36" alt="lavishjain36" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I' m currently working at **Guvi-HCL Corporation LTD.**
 
-- 🌱 I’m currently learned **Spring Boot,React,Thymeleaf Template,Hibernate,Spring Framework,Boostrap,Tailwinds CSS,HTML,CSS,Javascript,Data structure & Algorithm,Database-SQL & NOSQL,Junit**
+- 🌱 I’m currently learned **Spring Boot,React,Thymeleaf Template,Hibernate,Spring Framework,Bootstrap,Tailwinds CSS,HTML,CSS,Javascript,Data structure & Algorithm,Database-SQL & NOSQL,Junit,MERN,MEAN,JFS**
 
 - 👨‍💻 All of my projects are available at [https://lavishportfolio.onrender.com/](https://lavishportfolio.onrender.com/)
 
 - 📝 I regularly write articles on [https://www.guvi.in/blog/category/java/](https://www.guvi.in/blog/category/java/)
 
-- 💬 Ask me about **J2SE,J2EE,React,MYSQL,MONGODB,Selenium,Spring boot,Junit,React,Spring Boot,MySql,Mongodb,Postgres,Oracle**
+- 💬 Ask me about **J2SE,J2EE,React,MYSQL,MONGODB,Selenium,Spring boot,Junit,React,Spring Boot,MySql,Mongodb,Postgres,Oracle,AWS**
 
 - 📫 How to reach me **lavish@gmail.com**
 
@@ -33,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavishjain36&show_icons=true&locale=en" alt="lavishjain36" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavishjain36&" alt="lavishjain36" /></p>
-
