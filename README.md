@@ -18,9 +18,9 @@
 - 💼 I’m currently working at **Guvi-HCL Corporation Ltd.**
 - 🧑‍🏫 I’ve trained over **5 Lakh+ learners** to upskill in Full Stack Development and emerging tech domains.
 - 💻 Ex-Software Engineer at **ThoughtWorks**
-- 📖 Currently upskilling in:  
-  `Spring Boot`, `React`, `Thymeleaf`, `Hibernate`, `Spring Framework`,  
-  `Bootstrap`, `Tailwind CSS`, `HTML`, `CSS`, `JavaScript`,  
+- 📖 worked on technology  in:  
+  `Spring Boot`, `Selenium Webdriver`,`Cloud AWS`,`React`, `Thymeleaf`, `Hibernate`, `Spring Framework`,  
+  `Bootstrap`, `Tailwind CSS`, `HTML`, `CSS`, `JavaScript`, `Ecmascript`  
   `DSA`, `SQL`, `NoSQL`, `JUnit`, `MERN`, `MEAN`, `JFS`
 - 👨‍💻 Portfolio: [lavishportfolio.onrender.com](https://lavishportfolio.onrender.com/)
 - ✍️ Blogger at: [GUVI Blog - Java Section](https://www.guvi.in/blog/category/java/)
