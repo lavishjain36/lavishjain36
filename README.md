@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavish Jain</h1>
-<h3 align="center">🚀 Corporate Technology Mentor & Full Stack Developer | 11+ Years of Experience | Trained 5,00,000+ Tech Learners</h3>
+<h3 align="center">Corporate Technology Mentor & Full Stack Developer | 11+ Years of Experience | Trained 5,00,000+ Tech Learners</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavishjain36&label=Profile%20views&color=0e75b6&style=flat" alt="lavishjain36" />
