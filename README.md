@@ -97,8 +97,6 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishjain36&layout=compact&theme=radical&langs_count=8" />
 </p>
 
----
-
 
 ---
 
